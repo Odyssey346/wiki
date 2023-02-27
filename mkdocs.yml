@@ -1,0 +1,5 @@
+site_name: Odyssey346 Wiki
+site_url: https://wiki.odyssey346.dev/
+theme: readthedocs
+nav:
+  - Home: index.md
